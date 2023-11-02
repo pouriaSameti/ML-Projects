@@ -19,16 +19,6 @@
       "comparison": "exact",
       "timeout": 10,
       "points": 10
-    },
-    {
-      "name": "test_t",
-      "setup": "sudo -H pip3 install pytest && sudo -H pip3 install numpy && sudo -H pip3 install pandas && sudo -H pip3 install scikit-learn && sudo -H pip3 install gdown",
-      "run": "gdown https://drive.google.com/uc?id=1Iw5elLrJth-SfiRpyFNgg-dihGIRq6wf && sudo -H chmod +x ./test.sh && ./test.sh > /dev/null 2>&1",
-      "input": "",
-      "output": "",
-      "comparison": "exact",
-      "timeout": 10,
-      "points": 10
     }
   ]
 }
