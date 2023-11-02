@@ -3,7 +3,7 @@
     {
       "name": "House_price_test",
       "setup": "sudo -H pip3 install pytest && sudo -H pip3 install numpy && sudo -H pip3 install pandas && sudo -H pip3 install scikit-learn && sudo -H pip3 install gdown",
-      "run": "gdown https://drive.google.com/uc?id=1fUtKPae2cPrQkz9ie7AwgTmClaW9czW1 && gdown https://drive.google.com/uc?id=1D-SMv-7FPB_L5YUZOE2Fg3B1LkZ2kSTc && gdown https://drive.google.com/uc?id=1Fc5shamecEeGB0XMEAQQDwwB5tGC8ghC && pytest test_houseprice.py ",
+      "run": "gdown https://drive.google.com/uc?id=1fUtKPae2cPrQkz9ie7AwgTmClaW9czW1 && gdown https://drive.google.com/uc?id=1D-SMv-7FPB_L5YUZOE2Fg3B1LkZ2kSTc && gdown https://drive.google.com/uc?id=1XE8HtS9ipILQZL5a_r-A_Ny9apWt2caY && pytest test_houseprice.py ",
       "input": "",
       "output": "",
       "comparison": "exact",
