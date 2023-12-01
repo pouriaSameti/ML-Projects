@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5252fdd-30f7-4dfc-bf41-b381c1e3afbf" name="Changes" comment="Iris -&gt; changing the euclidean distance() to k-norm().">
-      <change beforePath="$PROJECT_DIR$/Iris_KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Iris_KNN.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="f5252fdd-30f7-4dfc-bf41-b381c1e3afbf" name="Changes" comment="Iris -&gt; another changes with respect to calculate k_norm." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +40,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iris -&gt; changing the euclidean distance() to k-norm()." />
-    <option name="LAST_COMMIT_MESSAGE" value="Iris -&gt; changing the euclidean distance() to k-norm()." />
+    <MESSAGE value="Iris -&gt; another changes with respect to calculate k_norm." />
+    <option name="LAST_COMMIT_MESSAGE" value="Iris -&gt; another changes with respect to calculate k_norm." />
   </component>
 </project>
